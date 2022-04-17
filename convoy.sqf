@@ -1,10 +1,10 @@
 /**
  * @ Author: Tova (https://forums.bohemia.net/forums/topic/226608-simple-convoy-script-release/)
  * @ Create Time: 2019-11-21 07:20:02
- * @ Version: 1.0.0
- * @ Description: Start a convoy a AI vehicules
+ * @ Version: 2.0.0
+ * @ Description: Start a convoy of AI vehicules
  * @ Usage: convoyScript = [convoyGroup, convoySpeed, convoySeparation, pushThrough] spawn TOV_fnc_SimpleConvoy;
- *   Once final waypoint is reached :
+ *  Once final waypoint is reached :
  *	 terminate convoyScript;
  *	 {
  *	 	(vehicle _x) limitSpeed 5000;

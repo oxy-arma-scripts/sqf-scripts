@@ -2,7 +2,7 @@
  * @ Author: OxyTom
  * @ Create Time: 2021-07-16 20:27:48
  * @ Version: 1.0.0
- * @ Description: Generate waypoints to loiter arround start position
+ * @ Description: Generate waypoints to loiter around start position
  * @ Usage: [this, 500] execVM "scripts\customLoiter.sqf"
  * @ Usage: [this, 500, 12, 40] execVM "scripts\customLoiter.sqf"
  * 						/\ must be > 0

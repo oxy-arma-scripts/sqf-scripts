@@ -4,7 +4,7 @@
  * @ Version: 1.1.0
  * @ Description: Auto remove AI if there's not enough players
  * @ Usage: [thislist, 12, 4, east] execVM "scripts\autoBalance.sqf";
- * @ Usage: [thislist, 12, 4] execVM "scripts\autoBalance.sqf";
+ * 			[thislist, 12, 4] execVM "scripts\autoBalance.sqf";
  */
 
 params ["_triggerList", "_maxPlayers", "_minPlayers", ["_playersSide", west]];
