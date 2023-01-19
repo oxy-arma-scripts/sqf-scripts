@@ -3,8 +3,8 @@
  * @ Create Time: 2021-10-23 23:11:16
  * @ Version: 1.0.0
  * @ Description: Add intel to a document with vanilla framework
- * @ Usage: [this, "TITRE", "DESCRIPTION"] execVM "script\addIntel.sqf";
- *  		[this, "TITRE", "DESCRIPTION", east] execVM "script\addIntel.sqf";
+ * @ Usage: [this, "TITRE", "DESCRIPTION"] execVM "scripts\addIntel.sqf";
+ *  		[this, "TITRE", "DESCRIPTION", east] execVM "scripts\addIntel.sqf";
  */
 
 params ["_el", "_title", "_desc", ["_playersSide", west]];
